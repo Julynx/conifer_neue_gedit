@@ -10,13 +10,13 @@
   <author>Julio Cabria</author>
   <_description> Conifer, Another Organic Color Palette.</_description>
 
-  <color name="sea"               value="#4F83CC"/>
-  <color name="sky"		          value="#439889"/>
+  <color name="sea"         value="#4F83CC"/>
+  <color name="sky"		       value="#439889"/>
   <color name="gold"		      value="#FFF263"/>
   <color name="sand"		      value="#FFB04C"/>
   <color name="fire"		      value="#FF795F"/>
-  <color name="white"		      value="#FFFFFF"/>
-  <color name="black"		      value="#282828"/>
+  <color name="white"		     value="#FFFFFF"/>
+  <color name="black"		     value="#282828"/>
 
 <!--GUI styles-->
 
