@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Author: Julio Cabria
+ Completed:
+
+ Description: Conifer, Another Organic Color Palette.
+-->
+
+  <style-scheme id="Conifer" _name="Conifer" version="1.0">
+  <author>Julio Cabria</author>
+  <_description> Conifer, Another Organic Color Palette.</_description>
+
+  <color name="sea"               value="#4F83CC"/>
+  <color name="sky"		          value="#439889"/>
+  <color name="gold"		      value="#FFF263"/>
+  <color name="sand"		      value="#FFB04C"/>
+  <color name="fire"		      value="#FF795F"/>
+  <color name="white"		      value="#FFFFFF"/>
+  <color name="black"		      value="#282828"/>
+
+<!--GUI styles-->
+
+  <style name="text"                        foreground="white" background="black"/>
+  <style name="selection"                   background="sky"/>
+  <style name="selection-unfocused"         foreground="black" background="sea"/>
+  <style name="cursor"                      foreground="white"/>
+  <style name="secondary-cursor"            foreground="sea"/>
+  <style name="current-line"                background="gold"/>
+  <style name="line-numbers"                foreground="white" background="sea"/>
+  <style name="bracket-match"               foreground="sky" background="black" bold="true"/>
+  <style name="bracket-mismatch"            foreground="fire" background="black" bold="true"/>
+  <style name="search-match"                foreground="black" background="sky"/>
+
+<!--Default styles-->
+
+  <style name="def:keyword"                 foreground="sand" bold="false"/>
+  <style name="def:statement"               foreground="gold"/>
+  <style name="def:function"                foreground="sand"/>
+  <style name="def:preprocessor"            foreground="sea" bold="false"/>
+  <style name="def:type"                    foreground="sky"/>
+  <style name="def:character"               foreground="white"/>
+  <style name="def:comment"                 foreground="fire" italic="true"/>
+  <style name="def:number"                  foreground="white"/>
+  <style name="def:decim Ital"              foreground="white"/>
+  <style name="def:base-n-integer"          foreground="white"/>
+  <style name="def:floating-point"          foreground="white"/>
+  <style name="def:complex"                 foreground="white"/>
+  <style name="def:string"                  foreground="gold"/>
+  <style name="def:net-address-in-comment"  foreground="white" italic="true" underline="true"/>
+  <style name="def:note"                    foreground="white" background="black" bold="true"/>
+  <style name="def:error"                   background="fire" bold="false"/>
+  <style name="def:escape"                  foreground="white"/>
+  <style name="def:shebang"                 foreground="white" bold="false"/>
+  <style name="def:doc-comment-element"     italic="true"/>
+  <style name="def:identifier"              foreground="fire" bold="false"/>
+  <style name="def:inline-identifier"       foreground="sand" bold="false"/>
+  <style name="def:builtin"                 porforeground="gold" bold="false"/>
+  <style name="def:specials"                foreground="sky" background="black"/>
+  <style name="def:variable"                foreground="fire"/>
+  <style name="def:boolean"                 foreground="sky" bold="true"/>
+  <style name="def:constant"                foreground="fire"/>
+  <style name="def:special-constant"        foreground="sky" bold="true"/>
+  <style name="def:special-character"       foreground="sky" bold="true"/>
+  <style name="def:background"              foreground="black"/>
+  <style name="diff:added-line"             foreground="white"/>
+  <style name="diff:removed-line"           foreground="white"/>
+  <style name="diff:changed-line"           foreground="white"/>
+  <style name="diff:special-case"           use-style="def:string"/>
+  <style name="diff:location"               use-style="def:keyword"/>
+
+</style-scheme>
