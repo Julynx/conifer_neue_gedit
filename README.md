@@ -1,7 +1,7 @@
 # conifer_gedit
 Another Organic Color Palette.
 
-![alt text](conifer.png)
+![alt text](conifer_new.png)
 
   INSTALL
  
