@@ -1,4 +1,4 @@
-# conifer_gedit
+# Conifer for Gedit
 Another Organic Color Palette.
 
 ![alt text](conifer_new.png)
