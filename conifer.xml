@@ -8,7 +8,7 @@
 
   <style-scheme id="Conifer" _name="Conifer" version="1.0">
   <author>Julio Cabria</author>
-  <_description> Conifer, Another Organic Color Palette.</_description>
+  <_description>Conifer, Another Organic Color Palette.</_description>
 
   <color name="sea"                         value="#4F83CC"/>
   <color name="sky"                         value="#439889"/>
