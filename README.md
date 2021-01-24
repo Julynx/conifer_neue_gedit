@@ -35,5 +35,5 @@ Another Organic Color Palette.
  
   CONTACT
  
- Julio Cabria - julicabria@outlook.com
- GitHub - https://github.com/Julynx/conifer_gedit
+ - Julio Cabria - julicabria@outlook.com
+ - GitHub - https://github.com/Julynx/conifer_gedit
