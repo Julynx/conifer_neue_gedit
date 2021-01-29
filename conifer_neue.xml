@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Author: Julio Cabria
+ Completed:
+
+ Description: Conifer Neue, Another Organic Color Palette.
+-->
+
+  <style-scheme id="conifer_neue" _name="Conifer_Neue" version="1.0">
+  <author>Julio Cabria</author>
+  <_description>Conifer Neue, Yet Another Organic Color Palette.</_description>
+
+  <color name="sea"                         value="#51b7ae"/>
+  <color name="sky"                         value="#53c4f7"/>
+  <color name="gold"                        value="#fff179"/>
+  <color name="sand"                        value="#ffb851"/>
+  <color name="fire"                        value="#ff8c68"/>
+  <color name="white"                       value="#FFFFFF"/>
+  <color name="black"                       value="#242424"/>
+
+<!--GUI styles-->
+
+  <style name="text"                        foreground="white" background="black"/>
+  <style name="selection"                   background="sea"/>
+  <style name="selection-unfocused"         foreground="black" background="sky"/>
+  <style name="cursor"                      foreground="white"/>
+  <style name="secondary-cursor"            foreground="sky"/>
+  <style name="current-line"                background="gold"/>
+  <style name="line-numbers"                foreground="white" background="sea"/>
+  <style name="bracket-match"               foreground="sea" background="black" bold="true"/>
+  <style name="bracket-mismatch"            foreground="fire" background="black" bold="true"/>
+  <style name="_skyrch-match"                foreground="black" background="sea"/>
+
+<!--Default styles-->
+
+  <style name="def:keyword"                 foreground="sand" bold="false"/>
+  <style name="def:statement"               foreground="gold"/>
+  <style name="def:function"                foreground="sand"/>
+  <style name="def:preprocessor"            foreground="sky" bold="false"/>
+  <style name="def:type"                    foreground="sea"/>
+  <style name="def:character"               foreground="white"/>
+  <style name="def:comment"                 foreground="fire" italic="true"/>
+  <style name="def:number"                  foreground="white"/>
+  <style name="def:decim Ital"              foreground="white"/>
+  <style name="def:base-n-integer"          foreground="white"/>
+  <style name="def:floating-point"          foreground="white"/>
+  <style name="def:complex"                 foreground="white"/>
+  <style name="def:string"                  foreground="gold"/>
+  <style name="def:net-address-in-comment"  foreground="white" italic="true" underline="true"/>
+  <style name="def:note"                    foreground="white" background="black" bold="true"/>
+  <style name="def:error"                   background="fire" bold="false"/>
+  <style name="def:escape"                  foreground="white"/>
+  <style name="def:shebang"                 foreground="white" bold="false"/>
+  <style name="def:doc-comment-element"     italic="true"/>
+  <style name="def:identifier"              foreground="fire" bold="false"/>
+  <style name="def:inline-identifier"       foreground="sand" bold="false"/>
+  <style name="def:builtin"                 porforeground="gold" bold="false"/>
+  <style name="def:specials"                foreground="sea" background="black"/>
+  <style name="def:variable"                foreground="fire"/>
+  <style name="def:boolean"                 foreground="sea" bold="true"/>
+  <style name="def:constant"                foreground="fire"/>
+  <style name="def:special-constant"        foreground="sea" bold="true"/>
+  <style name="def:special-character"       foreground="sea" bold="true"/>
+  <style name="def:background"              foreground="black"/>
+  <style name="diff:added-line"             foreground="white"/>
+  <style name="diff:removed-line"           foreground="white"/>
+  <style name="diff:changed-line"           foreground="white"/>
+  <style name="diff:special-case"           use-style="def:string"/>
+  <style name="diff:location"               use-style="def:keyword"/>
+
+</style-scheme>
