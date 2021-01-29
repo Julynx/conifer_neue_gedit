@@ -15,7 +15,7 @@
   <color name="gold"                        value="#fff179"/>
   <color name="sand"                        value="#ffb851"/>
   <color name="fire"                        value="#ff8c68"/>
-  <color name="white"                       value="#FFFFFF"/>
+  <color name="white"                       value="#ffffff"/>
   <color name="black"                       value="#242424"/>
 
 <!--GUI styles-->
